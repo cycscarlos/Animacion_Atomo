@@ -12,7 +12,7 @@ Este proyecto consiste en una animación interactiva de un átomo de carbono-12,
 
 <br>
 
-Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Carlos_Colmenares_A):
+Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Animacion_Atomo):
 
 <br>
 
