@@ -1,6 +1,26 @@
 # Proyecto de Animación de Átomo
 
-Este proyecto consiste en una animación interactiva de un átomo de carbono-12; desarrollado solo en HTML y CSS.
+Este proyecto consiste en una animación interactiva de un átomo de carbono-12, desarrollado tan solo en HTML y CSS.
+
+<br>
+
+---
+
+<br>
+
+![Website banner!](assets/img/readme.png)
+
+<br>
+
+Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Carlos_Colmenares_A):
+
+<br>
+
+---
+
+<br>
+
+---
 
 ## Instalación
 
