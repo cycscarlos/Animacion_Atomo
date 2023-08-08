@@ -18,10 +18,6 @@ Take a look at the website at the following link [Github Pages] (https://cycscar
 
 ---
 
-<br>
-
----
-
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
@@ -52,4 +48,4 @@ Si deseas contribuir a este proyecto, sigue los siguientes pasos:
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi correo electrónico: [ccolmenaresa@gmail.com](mailto:ccolmenaresa@gmail.com).
 
-¡También ver mi perfil e información de contacto en redes sociales en el siguiente link: [Carlos Colmenares A.](https://carlos-colmenares-a.netlify.app) por su contribución al proyecto!
+¡También puedes ver mi perfil para información de contacto en redes sociales y algo más... en el siguiente link: [Carlos Colmenares A.](https://carlos-colmenares-a.netlify.app)!
